@@ -1,5 +1,3 @@
-Here's a basic `README.md` template for your GitHub repository:
-
 ---
 
 # Deep Learning with TensorFlow and PyTorch
