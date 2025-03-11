@@ -3,3 +3,5 @@ opencv-python
 piexif
 matplotlib
 seaborn
+torch
+torchinfo
